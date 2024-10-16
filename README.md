@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VladRizea
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning maths
-- 💞️ I’m looking to collaborate on programming
+- 👀 I’m interested in all things that make people passioned
+- 🌱 I’m currently learning data science
 - 📫 How to reach me vlad.rizea.stefan@gmail.com
 
 <!---
